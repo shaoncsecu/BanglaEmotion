@@ -1,9 +1,9 @@
 # BanglaEmotion
 Bangla Emotion Detection
 
-## ***Please do not use this code without proper citation (follow the ethics and be honest ^_^)***
+### ***Please do not use this code without proper citation (follow the ethics and be honest ^_^)***
 
-### Author: Md Ataur Rahman
+#### Author: Md Ataur Rahman
 Dept. of Language Science and Technology
 University of Saarland
 Saarbrucken, Germany
@@ -11,7 +11,7 @@ Saarbrucken, Germany
 Email: shaoncsecu[at]gmail[dot]com
 
 
-### *** INSTRUCTIONS ON HOW TO RUN ***
+#### *** INSTRUCTIONS ON HOW TO RUN ***
 
 Run the Programs by executing the following command:
 
