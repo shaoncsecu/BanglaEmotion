@@ -121,7 +121,7 @@ def modify_corpus(data, use_sentiment):
     for line in data:
         tokens = line.strip().split()  # tokenize the lines
 
-        documents.append(tokens[2:])  # append the text - starts from 3rd tokens
+        documents.append(tokens[1:])  # append the text - starts from 2nd tokens
 
         if use_sentiment:
             # 2-class problem: positive vs negative
