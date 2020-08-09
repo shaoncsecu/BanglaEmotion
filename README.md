@@ -18,3 +18,16 @@ python SVM.py <training_set> <testing_set>
 
 
 - Where trainig and testing set is the location of train.txt and test.txt files
+
+### Citation Information
+
+```ruby
+@misc{rahman2019comparison,
+    title={Comparison of Classical Machine Learning Approaches on Bangla Textual Emotion Analysis},
+    author={Md. Ataur Rahman and Md. Hanif Seddiqui},
+    year={2019},
+    eprint={1907.07826},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
