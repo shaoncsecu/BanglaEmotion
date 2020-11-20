@@ -21,6 +21,7 @@ python SVM.py <training_set> <testing_set>
 
 ### Citation Information
 
+#### Paper
 ```ruby
 @misc{rahman2019comparison,
     title={Comparison of Classical Machine Learning Approaches on Bangla Textual Emotion Analysis},
@@ -30,4 +31,17 @@ python SVM.py <training_set> <testing_set>
     archivePrefix={arXiv},
     primaryClass={cs.CL}
 }
+```
+
+#### Dataset
+```ruby
+@misc{https://doi.org/10.17632/24xd7w7dhp.1,
+    doi = {10.17632/24XD7W7DHP.1},
+    url = {https://data.mendeley.com/datasets/24xd7w7dhp/1},
+    author = {{Rahman, Md Ataur}},
+    keywords = {Computational Linguistics, Natural Language Processing, Bangladesh, Emotion Representation, Textual Analysis, Sentiment Analysis},
+    title = {BanglaEmotion: A Benchmark Dataset for Bangla Textual Emotion Analysis},
+    publisher = {Mendeley},
+    year = {2020}
+} 
 ```
